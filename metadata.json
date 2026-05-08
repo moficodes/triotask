@@ -1,0 +1,6 @@
+{
+  "name": "TrioTask",
+  "description": "A minimalist task manager that strictly limits you to three tasks at a time to prevent burnout and focus on what matters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
